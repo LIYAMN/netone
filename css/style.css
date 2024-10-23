@@ -1,0 +1,43 @@
+body {
+    background-color: #f5edcf;
+    font-family: 'MS Serif', Courier, monospace;
+    color: #2c240a;
+}
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+.container {
+    margin-top: 20px;
+}
+.row {
+}
+.col-8 {
+}
+.col-4 {
+}
+.col-3.nav_logo {
+    background: url(../image/logo.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 74px;
+    height: 74px;
+    
+}
+.col-9 {
+}
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.img_size {
+}
+.title_photo {
+    text-align: center
+}
+.person{
+    background: url(../image/person.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 400px;
+    height: 200px;
+}
